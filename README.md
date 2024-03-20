@@ -18,8 +18,18 @@ GitHub를 활용하여 협업 환경을 구성하는 프로젝트입니다.
 * GitHub repo
 
 ---
-### 주요 기능
+### 주요 구성 내용
 **1. commit convention Template**
+> commit convention 적용 방법
+1. '.gitmessage.txt' 파일 다운로드
+2. 아래 명령어 실행하여 commit convention 적용
+```
+$ git config --global commit.template .gitmessage.txt
+```
+> commit convention 적용 화면
+```
+$ git commit
+<img src=>
 
 **2. Project Template**
 
