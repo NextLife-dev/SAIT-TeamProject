@@ -10,7 +10,7 @@ Hello!
 
 모두가 기존 Conflict.txt 파일을 다르게 수정하고 Commit 한 후 push 하려고 하면 아래와 같이 Git Error가 발생한다.
 
-![[Pasted image 20240320100630.png]]
+![poster](./issue.PNG)
 
 해결 방법은 이슈 #3 에 올라온 답변에 있다.
 
