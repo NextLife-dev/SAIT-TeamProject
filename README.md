@@ -30,7 +30,7 @@ $ git config --global commit.template .gitmessage.txt
 ```
 $ git commit
 ```
-![Commit Convention](/commit_convention.PNG)
+![Commit Convention](./image/commit_convention.PNG)
 
 
 **2. Project Template**
@@ -38,7 +38,7 @@ $ git commit
 * GitHub > Projects > [New project] > Planning 선택
 
 > Project 화면
-![Project](/project_template.PNG)
+![Project](./image/project_template.PNG)
 
 
 **3. Issue Template**
@@ -47,10 +47,10 @@ $ git commit
 1. GitHub > Settings > Features - Issues > [Set up templates] 버튼 클릭
 2. [Add template: select] > Custome template
 3. [Preview and edit] > 연필 모양 아이콘 > 이슈 템플릿 작성
-![Issue_template](/issue_template_settings.png)
+![Issue_template](./image/issue_template_settings.png)
 
 > issue Template 적용 화면
-![Issue](/issue_template.PNG)
+![Issue](./image/issue_template.PNG)
 
 ---
 ### 기타
